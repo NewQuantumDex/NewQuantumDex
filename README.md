@@ -59,8 +59,17 @@ A Pokédex API da QuantumDex é uma ferramenta poderosa e prática para desenvol
 ## 📚 Como Contribuir?  
 
 Quer ajudar a QuantumDex a continuar inovando? Você pode contribuir para nosso projeto de várias maneiras:  
-
 1. Faça um fork do repositório.  
 2. Crie uma nova branch para sua feature ou correção:  
    ```bash
    git checkout -b feature/sua-feature
+
+---
+
+# 👥 Contato
+
+Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parcerias:
+	•	E-mail: quantumdex0@gmail.com
+	•	Instagram: newquantumdex
+
+Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, uma API por vez!
