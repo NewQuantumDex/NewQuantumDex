@@ -71,6 +71,7 @@ Quer ajudar a QuantumDex a continuar inovando? Você pode contribuir para nosso 
 Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parcerias:
 
 •	E-mail: quantumdex0@gmail.com
+
 •	Instagram: newquantumdex
 
 Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, uma API por vez!
