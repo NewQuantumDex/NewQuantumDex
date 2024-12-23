@@ -51,9 +51,8 @@ A Pokédex API da QuantumDex é uma ferramenta poderosa e prática para desenvol
 
 ## 🛠 Tecnologias Utilizadas  
 - *Linguagem de programação:* Java  
-- *Framework:* Spring Boot  
-- *Banco de Dados:* PostgreSQL  
-- *Documentação da API:* Swagger  
+- *Framework:*     
+- *Documentação da API:*  
 
 ---
 
