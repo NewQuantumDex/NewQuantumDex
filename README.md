@@ -2,7 +2,7 @@
 
 *"Porque até dados podem evoluir!"*  
 
-Bem-vindo ao repositório oficial da *QuantumDex*, uma empresa dedicada a desenvolver APIs criativas, funcionais e altamente interativas. Atualmente, estamos trabalhando em um projeto inovador: uma API de Pokédex que une tecnologia avançada ao amor por descobertas.  
+Bem-vindo ao repositório oficial da *QuantumDex*, uma empresa dedicada a desenvolver sites e aplicativos, funcionais e altamente interativo. Atualmente, estamos trabalhando em um projeto geek e divertido: uma Pokedex que une uma API avançada ao amor por descobertas.  
 
 ---
 
@@ -13,12 +13,12 @@ Na QuantumDex, acreditamos que a tecnologia deve ser uma ferramenta para explora
 ---
 
 ## 📜 Missão  
-Revolucionar a experiência digital ao criar soluções inovadoras e interativas em APIs, conectando pessoas ao vasto mundo do conhecimento e da diversão. Nosso objetivo é transformar dados complexos em aventuras cativantes, onde a tecnologia e a paixão por descobertas se encontram.
+Revolucionar a experiência digital ao criar soluções inovadoras e interativas, conectando pessoas ao vasto mundo do conhecimento e da diversão. Nosso objetivo é transformar dados complexos em aventuras cativantes, onde a tecnologia e a paixão por descobertas se encontram.
 
 ---
 
 ## 🌟 Visão  
-Ser referência global no desenvolvimento de APIs criativas e funcionais, inspirando desenvolvedores e usuários a explorar, aprender e evoluir através de experiências digitais memoráveis. Queremos ser a ponte entre o futuro da tecnologia e a curiosidade humana.
+Ser referência global no desenvolvimento de aplicativos criativos e funcionais, inspirando desenvolvedores e usuários a explorar, aprender e evoluir através de experiências digitais memoráveis. Queremos ser a ponte entre o futuro da tecnologia e a curiosidade humana.
 
 ---
 
@@ -26,7 +26,7 @@ Ser referência global no desenvolvimento de APIs criativas e funcionais, inspir
 
 - *Inovação Infinita:* Assim como uma Pokédex que nunca para de catalogar, acreditamos em evoluir constantemente nossas ideias e tecnologias.  
 - *Exploração e Descoberta:* Celebramos a curiosidade e incentivamos o aprendizado contínuo, tanto no mundo digital quanto no real.  
-- *Conexão com o Usuário:* Colocamos as pessoas no centro de tudo o que criamos, garantindo que nossas APIs sejam intuitivas, acessíveis e envolventes.  
+- *Conexão com o Usuário:* Colocamos as pessoas no centro de tudo o que criamos, garantindo que nossas aplicações sejam intuitivas, acessíveis e envolventes.  
 - *Diversidade e Inclusão:* Assim como há um Pokémon para cada tipo de treinador, acreditamos que a tecnologia deve atender a todos os públicos, respeitando suas diferenças.  
 - *Sustentabilidade Digital:* Trabalhamos para criar soluções eficientes, que impactem positivamente o ecossistema digital e social.  
 
@@ -39,20 +39,20 @@ Ser referência global no desenvolvimento de APIs criativas e funcionais, inspir
 
 ## 🔧 Sobre o Projeto Pokédex API  
 
-A Pokédex API da QuantumDex é uma ferramenta poderosa e prática para desenvolvedores que desejam acessar informações detalhadas sobre todas as criaturas de um mundo incrível!  
+A Pokédex da QuantumDex é uma ferramenta poderosa e prática para desenvolvedores que desejam acessar informações detalhadas sobre todas as criaturas de um mundo incrível!  
 
 ### Principais Recursos  
 - 📜 *Informações completas de criaturas:* Tipos, habilidades, evoluções e mais.  
 - ⚡ *Rápido e escalável:* Desempenho otimizado para alto volume de requisições.  
-- 📡 *Fácil de integrar:* Endpoints claros e documentação detalhada para você começar rapidamente.  
-- 🎨 *Personalizável:* Adapte os dados ao estilo e às necessidades do seu projeto.  
+- 📡 *Fácil de usar:* Interface intuitiva e universal.  
+- 🎨 *Educativo:* Tudo sobre Pokemons em um só lugar! 
 
 ---
 
 ## 🛠 Tecnologias Utilizadas  
 - *Linguagem de programação:* Java  
-- *Framework:*     
-- *Documentação da API:*  
+- *IDE's:* Eclipse e NetBeans.     
+- *API utilizada:* PokeApi
 
 ---
 
@@ -74,4 +74,4 @@ Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parceri
 
 •	Instagram: newquantumdex
 
-Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, uma API por vez!
+Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, um projeto por vez!
