@@ -1,5 +1,5 @@
 # QuantumDex  
-![GIF de Pokémon](https://media.giphy.com/media/9J7nZR6skBdKM/giphy.gif)  
+![Manaphy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png)
 
 *"Porque até dados podem evoluir!"*  
 
