@@ -1,5 +1,5 @@
 # QuantumDex  
-![Pokémon Logo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)  
+![Scarlet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png)  
 
 *"Porque até dados podem evoluir!"*  
 
@@ -63,6 +63,16 @@ A Pokédex da QuantumDex é uma ferramenta poderosa e prática para desenvolvedo
 - *API utilizada:* PokeApi  
 
 ---
+
+
+## 👥 Contato
+Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parcerias:
+
+• E-mail: quantumdex0@gmail.com
+
+• Instagram: newquantumdex
+
+Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, um projeto por vez!
 
 ## 📚 Como Contribuir?  
 
