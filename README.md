@@ -65,15 +65,6 @@ A Pokédex da QuantumDex é uma ferramenta poderosa e prática para desenvolvedo
 ---
 
 
-## 👥 Contato
-Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parcerias:
-
-• E-mail: quantumdex0@gmail.com
-
-• Instagram: newquantumdex
-
-Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, um projeto por vez!
-
 ## 📚 Como Contribuir?  
 
 Quer ajudar a QuantumDex a continuar inovando? Você pode contribuir para nosso projeto de várias maneiras:  
@@ -81,3 +72,14 @@ Quer ajudar a QuantumDex a continuar inovando? Você pode contribuir para nosso 
 2. Crie uma nova branch para sua feature ou correção:  
    ```bash
    git checkout -b feature/sua-feature
+
+
+## 👥 Contato 
+
+Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parcerias:
+
+• E-mail: quantumdex0@gmail.com
+
+• Instagram: newquantumdex
+
+Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, um projeto por vez!
