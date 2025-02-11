@@ -1,5 +1,5 @@
 # QuantumDex  
-![Scarlet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png)  
+![GIF de Pokémon](https://media.giphy.com/media/9J7nZR6skBdKM/giphy.gif)  
 
 *"Porque até dados podem evoluir!"*  
 
