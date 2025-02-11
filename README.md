@@ -1,10 +1,12 @@
 # QuantumDex  
+![Pokémon Logo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)  
 
 *"Porque até dados podem evoluir!"*  
 
-Bem-vindo ao repositório oficial da *QuantumDex*, uma empresa dedicada a desenvolver sites e aplicativos, funcionais e altamente interativo. Atualmente, estamos trabalhando em um projeto geek e divertido: uma Pokedex que une uma API avançada ao amor por descobertas.  
+Bem-vindo ao repositório oficial da *QuantumDex*, uma empresa dedicada a desenvolver sites e aplicativos, funcionais e altamente interativos. Atualmente, estamos trabalhando em um projeto geek e divertido: uma Pokedex que une uma API avançada ao amor por descobertas.  
 
 ---
+![Squirtle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png)  
 
 ## Sobre a QuantumDex  
 
@@ -16,7 +18,7 @@ Na QuantumDex, acreditamos que a tecnologia deve ser uma ferramenta para explora
 Revolucionar a experiência digital ao criar soluções inovadoras e interativas, conectando pessoas ao vasto mundo do conhecimento e da diversão. Nosso objetivo é transformar dados complexos em aventuras cativantes, onde a tecnologia e a paixão por descobertas se encontram.
 
 ---
-
+![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png)  
 ## 🌟 Visão  
 Ser referência global no desenvolvimento de aplicativos criativos e funcionais, inspirando desenvolvedores e usuários a explorar, aprender e evoluir através de experiências digitais memoráveis. Queremos ser a ponte entre o futuro da tecnologia e a curiosidade humana.
 
@@ -31,7 +33,7 @@ Ser referência global no desenvolvimento de aplicativos criativos e funcionais,
 - *Sustentabilidade Digital:* Trabalhamos para criar soluções eficientes, que impactem positivamente o ecossistema digital e social.  
 
 ---
-
+![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png)  
 ## 🎯 Slogan  
 *"Porque até dados podem evoluir!"*  
 
@@ -45,14 +47,20 @@ A Pokédex da QuantumDex é uma ferramenta poderosa e prática para desenvolvedo
 - 📜 *Informações completas de criaturas:* Tipos, habilidades, evoluções e mais.  
 - ⚡ *Rápido e escalável:* Desempenho otimizado para alto volume de requisições.  
 - 📡 *Fácil de usar:* Interface intuitiva e universal.  
-- 🎨 *Educativo:* Tudo sobre Pokemons em um só lugar! 
+- 🎨 *Educativo:* Tudo sobre Pokemons em um só lugar!  
+- 🐱‍🏍 *Pokémons:* Explore o mundo dos Pokémon!  
+
+![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)  
+
+
+
 
 ---
 
 ## 🛠 Tecnologias Utilizadas  
 - *Linguagem de programação:* Java  
-- *IDE's:* Eclipse e NetBeans.     
-- *API utilizada:* PokeApi
+- *IDE's:* Eclipse e NetBeans.  
+- *API utilizada:* PokeApi  
 
 ---
 
@@ -63,15 +71,3 @@ Quer ajudar a QuantumDex a continuar inovando? Você pode contribuir para nosso 
 2. Crie uma nova branch para sua feature ou correção:  
    ```bash
    git checkout -b feature/sua-feature
-
----
-
-## 👥 Contato
-
-Entre em contato com a equipe da QuantumDex para dúvidas, sugestões ou parcerias:
-
-•	E-mail: quantumdex0@gmail.com
-
-•	Instagram: newquantumdex
-
-Com QuantumDex, a evolução está apenas começando. Conecte-se ao futuro, um projeto por vez!
